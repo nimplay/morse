@@ -10,8 +10,6 @@
 - [x] Linter: [Rubocop](https://rubocop.org/)
 - [x] VS Code
 
-![International_Morse_Code svg](https://user-images.githubusercontent.com/98527559/178309679-c489d5b7-bca4-4405-9da1-afd5bac239f2.png)
-
 ## Getting Started
 
 To get a local copy up and running follow these simple steps.
